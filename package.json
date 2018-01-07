@@ -15,11 +15,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-p2p.git"
+    "url": "https://github.com/dallar-project/bitcore-p2p.git"
   },
   "dependencies": {
     "bitcore-lib": "dallar-project/bitcore-lib",
-    "bcoin": "dallar-project/bcoin",
+    "bcoin": "dallar-project/bcoin#dallar",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"

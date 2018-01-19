@@ -18,7 +18,7 @@
     "url": "https://github.com/dallar-project/bitcore-p2p.git"
   },
   "dependencies": {
-    "bitcore-lib": "dallar-project/bitcore-lib",
+    "bitcore-lib": "dallar-project/bitcore-lib#copay",
     "bcoin": "dallar-project/bcoin#dallar",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
